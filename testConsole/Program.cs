@@ -12,6 +12,8 @@ namespace testConsole
         {
             Console.WriteLine("premier test");
             Console.ReadLine();
+            Console.WriteLine("deuxième testt");
+            Console.ReadLine();
         }
     }
 }
